@@ -43,4 +43,3 @@ The script has only been tested on Nextcloud docker image
 
 
 Enjoy!
-
