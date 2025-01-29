@@ -26,7 +26,7 @@ The script has only been tested on Nextcloud docker image
 
 # Install unrar:
 
-    apt install unrar
+    apt install unrar-free
 
 # Using File Actions:
 
