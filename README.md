@@ -1,5 +1,5 @@
 # Updated file
-Now supports NL31.
+Now supports NL31, automatically installs 7z to NextCloud (Docker container) on request.
 
 # Unzip for File Actions in Nextcloud
 
@@ -37,6 +37,5 @@ The script has only been tested on Nextcloud docker image
 
 # To use new feature of the branch:
     Go to File Actions, your file action script, and create a Checkbox with the variable "is_dirpath".
-
 
 Enjoy!
