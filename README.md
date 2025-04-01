@@ -1,3 +1,6 @@
+# Updated file
+Now supports NL31.
+
 # Unzip for File Actions in Nextcloud
 
     A small script for file actions in Nextcloud, this script as
