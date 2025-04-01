@@ -16,7 +16,7 @@ Now supports NL31.
 
 # Requirements:
 
-    1. 7z and unrar, install them on the docker container not on the host.
+    1. 7z, install them on the docker container not on the host.
     2. Nextcloud Docker Container.
     3. File Actions extension: https://github.com/Raudius/files_scripts/tree/master.
 
@@ -26,10 +26,6 @@ The script has only been tested on Nextcloud docker image
     docker exec -it -u root nextcloud-container /bin/bash
     apt update -y
     apt install p7zip-full -y
-
-# Install unrar:
-
-    apt install unrar-free
 
 # Using File Actions:
 
